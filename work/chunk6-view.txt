@@ -1,0 +1,245 @@
+~status.bar.StatusBar.9659e38343 | Ports
+~status.bar.StatusBar.d1e1a7a6bf | Resource Manager
+~status.bar.StatusBar.24ac89df1a | Remote Hosts
+~status.bar.StatusBar.5e59007df4 | Kimi Usage
+~status.bar.StatusBar.8c86cd77b0 | OpenCode Go Usage
+~status.bar.StatusBar.c1df0d67ec | Gemini Usage
+~status.bar.StatusBar.c0909c686e | Codex Usage
+~status.bar.StatusBar.3885eb74d8 | Claude Usage
+~status.bar.StatusBar.c8857b40f7 | Refresh usage data
+~status.bar.StatusBar.75ded02687 | Manage Accounts…
+~status.bar.StatusBar.ff0fbe9311 | Active
+~status.bar.StatusBar.7657e3db9c | Codex Account
+~status.bar.StatusBar.38b5647724 | Codex usage runtime
+~status.bar.StatusBar.ba55303942 | Open Codex details and account switcher
+~status.bar.StatusBar.4dff061aab | ·
+~status.bar.StatusBar.2483c60695 | ···
+~status.bar.StatusBar.c35af53b73 | Sign in
+~status.bar.StatusBar.f19a63e7cd | Sign in to see usage
+~status.bar.StatusBar.5c938d39ac | wk
+~status.bar.StatusBar.54e8d6bb2d | Fable
+~status.bar.StatusBar.d79c3362c4 | 5h
+~status.bar.StatusBar.a79c64f87e | Fable
+~status.bar.StatusBar.8295903d17 | Restart live Claude terminals before continuing old conversations after switching.
+~status.bar.StatusBar.c98ea88392 | No other accounts
+~status.bar.StatusBar.9332ba8684 | Switch to
+~status.bar.StatusBar.d450654fa2 | Claude Account
+~status.bar.StatusBar.11e2354daf | Claude usage runtime
+~status.bar.StatusBar.3dd7ddfae1 | Open Claude details and account switcher
+~status.bar.StatusBar.59c6e7b4e0 | Visible sessions restart now. Others restart when their worktree becomes active.
+~status.bar.StatusBar.c676918adc | System default
+~status.bar.StatusBar.3325d996cb | Refresh rate limits
+~status.bar.StatusBar.fda8146810 | Open Kimi usage details
+~status.bar.StatusBar.629251f4b6 | Open OpenCode Go usage details
+~status.bar.StatusBar.d2375976eb | Open Gemini usage details
+~status.bar.StatusBar.3d79122c3f | kimi
+~status.bar.StatusBar.d7a0668acc | opencode-go
+~status.bar.StatusBar.68efc0345c | gemini
+~status.bar.StatusBar.76b06d4da5 | claude
+~status.bar.StatusBar.a28a5dd9b1 | error
+~status.bar.StatusBar.cd9d7b40ff | Restart {{value0}} Sessions
+~status.bar.StatusBar.6cd6650b4c | Restart Session
+~status.bar.StatusBar.1446d0d8a0 | {{value0}} Codex sessions are still on the old account.
+~status.bar.StatusBar.605901a495 | 1 Codex session is still on the old account
+~status.bar.StatusBar.5e5f9f5160 | 1 rate-limit reset available
+~status.bar.StatusBar.5ecae9197c | {{value0}} rate-limit resets available
+~status.bar.StatusBar.25d8bbde69 | Using reset…
+~status.bar.StatusBar.e159fc1fd7 | Reset now
+~status.bar.StatusBar.972a1ff497 | Reset Codex limits?
+~status.bar.StatusBar.6d1042aa6f | This uses one Codex rate-limit reset credit for the active account and resets any eligible usage windows immediately.
+~status.bar.StatusBar.f077f586db | Don't ask again
+~status.bar.StatusBar.c0e972d726 | Cancel
+~status.bar.StatusBar.06741a2f3d | Open MiniMax usage details
+~status.bar.StatusBar.3bbf140864 | MiniMax Usage
+~status.bar.StatusBar.remoteServerLabel | Remote server
+~status.bar.StatusBar.antigravityUsage | Antigravity Usage
+~status.bar.StatusBar.antigravityUsageDetails | Open Antigravity usage details
+~status.bar.StatusBar.grokUsageAria | Open Grok usage details
+~status.bar.StatusBar.grokUsageMenu | Grok Usage
+~status.bar.StatusBar.floatingTerminalNewActivity | {{label}}, new activity
+~status.bar.StatusBar.codexSignInSuccess | Signed in to Codex
+~status.bar.StatusBar.codexSignInError | Codex sign-in failed. Please try again.
+~status.bar.StatusBarUsageEmptyCta.828c764a79 | Connect an account
+~status.bar.StatusBarUsageEmptyCta.caa0f39811 | Supports:
+~status.bar.StatusBarUsageEmptyCta.97957ad3a3 | Connect your AI provider accounts to see their usage in real time and easily switch between accounts.
+~status.bar.StatusBarUsageEmptyCta.9a542f46c7 | Hide from status bar
+~status.bar.StatusBarUsageEmptyCta.84c3b15dca | Agent usage limits
+~status.bar.StatusBarUsageEmptyCta.d663430cf9 | Configure usage tracking
+~status.bar.UpdateStatusSegment.5cd13105a3 | Update failed. Click to expand.
+~status.bar.UpdateStatusSegment.2201df6987 | Update failed — click to see details
+~status.bar.UpdateStatusSegment.8533c12c3c | Update failed
+~status.bar.UpdateStatusSegment.962404f68e | Update ready to install. Click to expand.
+~status.bar.UpdateStatusSegment.248ee5d8ef | Orca v{{value0}} downloading… {{value1}}%
+~status.bar.UpdateStatusSegment.57a29c3b0e | Update ready
+~status.bar.UpdateStatusSegment.fd1d3b3a1d | Update downloading, {{value0}} percent. Click to expand.
+~status.bar.UpdateStatusSegment.9d13213a56 | Orca v{{value0}} ready to install
+~status.bar.tooltip.cedb7b99e3 | % used
+~status.bar.tooltip.6d6df77f41 | No data available
+~status.bar.tooltip.7f7f208060 | Monthly
+~status.bar.tooltip.252c096536 | Weekly
+~status.bar.tooltip.a79c64f87e | Fable
+~status.bar.tooltip.94038ad2fa | Session
+~status.bar.tooltip.2c35eca8d4 | Unable to fetch usage
+~status.bar.tooltip.1292d4f2ee | Unavailable
+~status.bar.tooltip.7567cd1c6b | Usage unavailable
+~status.bar.tooltip.a9a318b7a3 | Refresh failed — showing cached data
+~status.bar.tooltip.7ad719c4bf | Limited
+~status.bar.tooltip.e740f92596 | Refresh failed
+~status.bar.tooltip.8418ec448d | {{value0}} usage could not be refreshed. Agent sessions may still be signed in.
+~status.bar.tooltip.45198c7d95 | 1 rate-limit reset available
+~status.bar.tooltip.bce421cba3 | {{value0}} rate-limit resets available
+~status.bar.tooltip.7ec6e030a0 | Next expires now
+~status.bar.tooltip.d1e442a9e5 | Expires now
+~status.bar.tooltip.6cf9eaed10 | Next expires in {{value0}}
+~status.bar.tooltip.20ad66aed1 | Expires in {{value0}}
+~status.bar.tooltip.0d8d7cfe15 | Waiting for Claude session
+~status.bar.tooltip.1804cd8c3f | Refreshing sign-in
+~status.bar.tooltip.f8f0f9d8cc | Network issue
+~status.bar.tooltip.bf2e739f18 | Sign-in unavailable
+~status.bar.tooltip.f8b8dbed85 | Usage unavailable
+~status.bar.tooltip.3d3c9c0c1f | Claude usage will refresh after the live Claude terminal rotates its credentials.
+~status.bar.tooltip.42fdd4da1d | Claude sign-in is being refreshed. Agent sessions may still be signed in.
+~status.bar.tooltip.c06c1d215d | Claude usage could not be refreshed because the network request failed.
+~status.bar.tooltip.cabdc2a9e0 | Claude sign-in credentials could not be read.
+~status.bar.tooltip.a7517cccb6 | Claude usage is unavailable right now.
+~status.bar.tooltip.e2c6a4f917 | Run Grok to refresh
+~status.bar.tooltip.d1b7f509ac | Run grok in a terminal on the computer running Orca and wait for it to start. If prompted, complete sign-in, then retry usage. You do not need to send a chat message.
+~status.bar.tooltip.f90b3d7a16 | Run Kimi to refresh
+~status.bar.tooltip.a37e8c15d4 | Run kimi in a terminal on the computer running Orca and wait for it to start, then retry usage.
+~status.bar.tooltip.minimax.expired.label | Sign-in expired
+~status.bar.tooltip.minimax.expired.apiKey | MiniMax API key expired. Replace it in Settings.
+~status.bar.tooltip.minimax.expired.cookie | MiniMax session cookie expired. Replace it in Settings.
+~status.bar.usagePercentageLabel.used | {{value0}}% used
+~status.bar.usagePercentageLabel.remaining | {{value0}}% left
+~status.bar.UsageRosterPanel.title | Usage
+~status.bar.UsageRosterPanel.openDetails | Open usage details
+~status.bar.UsageRosterPanel.notSignedIn | not signed in
+~status.bar.UsageRosterPanel.allAgents | all agents
+~status.bar.UsageRosterPanel.usageDetails | Usage details & history
+~status.bar.UsageRosterPanel.loadingUsage | Loading usage…
+~status.bar.UsageRosterPanel.usageUnavailable | Usage unavailable
+~status.bar.UsageRosterPanel.noUsageData | No usage data
+~status.bar.UsageRosterPanel.detailed | Detailed
+~status.bar.UsageRosterPanel.compact | Compact
+~status.bar.UsageRosterPanel.detailedTooltip | Full usage with bars, labels, and percentages
+~status.bar.UsageRosterPanel.compactTooltip | Condensed usage: only the tightest window
+~status.bar.UsageRosterPanel.footerDetailAria | Usage footer detail
+~right.sidebar.FileExplorer.79b1537dd3 | Select a workspace to browse files
+~right.sidebar.FileExplorer.4da4d89845 | Back to Explorer
+~right.sidebar.FileExplorer.6ed5ce817b | Search
+~right.sidebar.FileExplorer.2f4483d6c4 | No files match this filter
+~right.sidebar.FileExplorerBackgroundMenu.3b5e2dcb8d | New Folder
+~right.sidebar.FileExplorerBackgroundMenu.21fe46ed36 | New File
+~right.sidebar.FileExplorerRow.addc01145f | Delete
+~right.sidebar.FileExplorerRow.fc747429bf | Rename
+~right.sidebar.FileExplorerRow.0df0e5abac | Find in Folder
+~right.sidebar.FileExplorerRow.d6a25618aa | Collapse Folder
+~right.sidebar.FileExplorerRow.d87a4c42e1 | Open Markdown Preview
+~right.sidebar.FileExplorerRow.c2112579f6 | Download
+~right.sidebar.FileExplorerRow.7ac885bd2f | Download Folder
+~right.sidebar.FileExplorerRow.dd112c81d2 | Open in Orca Browser
+~right.sidebar.FileExplorerRow.1bb9be455c | Add as Project...
+~right.sidebar.FileExplorerRow.0fec99bfd7 | Duplicate
+~right.sidebar.FileExplorerRow.f61af83316 | New Folder
+~right.sidebar.FileExplorerRow.37c875d827 | New File
+~right.sidebar.FileExplorerRow.b3e288bf41 | Failed to download '{{value0}}'.
+~right.sidebar.FileExplorerRow.f729bcd97d | Failed to download folder '{{value0}}'.
+~right.sidebar.FileExplorerRow.1a3df04ae1 | Open
+~right.sidebar.FileExplorerRow.bce4d4e44f | Downloaded '{{value0}}'
+~right.sidebar.FileExplorerRow.a4029c996b | Downloaded folder '{{value0}}'
+~right.sidebar.FileExplorerRow.e26010014a | Ignored by .gitignore
+~right.sidebar.FileExplorerRow.a06551beee | Enter
+~right.sidebar.FileExplorerRow.128a99ed5e | Unassigned
+~right.sidebar.FileExplorerRow.2de3b21934 | markdown
+~right.sidebar.FileExplorerRow.66a29dde82 | Copy Relative Path
+~right.sidebar.FileExplorerRow.42e10cbf57 | Copy Relative Paths
+~right.sidebar.FileExplorerRow.b5d436aa30 | Copy Path
+~right.sidebar.FileExplorerRow.98a79948b3 | Copy
+~right.sidebar.FileExplorerRow.b234ab25b4 | Could not copy the file to the clipboard
+~right.sidebar.FileExplorerRow.f9d7ca753d | Copy Paths
+~right.sidebar.FileExplorerRow.3161c4e425 | folder
+~right.sidebar.FileExplorerRow.e887fa4b2e | Open in Terminal
+~right.sidebar.FileExplorerRow.1d8e182c32 | View File
+~right.sidebar.FileExplorerRow.clipboardStagingUnavailable | Could not copy the file because Orca's temporary storage is unavailable
+~right.sidebar.FileExplorerRow.revealInFinder | Reveal in Finder
+~right.sidebar.FileExplorerRow.openContainingFolder | Open Containing Folder
+~right.sidebar.FileExplorerRow.revealInFileExplorer | Reveal in File Explorer
+~right.sidebar.FileExplorerToolbar.d238264654 | Show Git Ignored Files
+~right.sidebar.FileExplorerToolbar.78f133232c | Show Dotfiles
+~right.sidebar.FileExplorerToolbar.31b4c3195d | More Explorer Actions
+~right.sidebar.FileExplorerToolbar.d95e30fe28 | Refresh Explorer
+~right.sidebar.FileExplorerToolbar.6026b16950 | Collapse All
+~right.sidebar.FileExplorerToolbar.693cbeadd0 | Search
+~right.sidebar.FileExplorerToolbar.c1f3f3ec70 | Search file contents
+~right.sidebar.FileExplorerTreeStatus.ce03835e1f | No files in this workspace
+~right.sidebar.FileExplorerTreeStatus.c76693e456 | Could not load files for this workspace:
+~right.sidebar.Search.1abfb25a66 | Type to search in files
+~right.sidebar.Search.d56d140747 | Press Enter to search
+~right.sidebar.Search.0b8104eaf2 | file
+~right.sidebar.Search.4107975b3a | in
+~right.sidebar.Search.6aeda362ed | result
+~right.sidebar.Search.98c8435e36 | Select a workspace to search
+~right.sidebar.Search.1ec640c9c7 | match
+~right.sidebar.Search.dcc294f28d | (results truncated)
+~right.sidebar.SearchFilters.01e4671ccf | files to exclude (e.g. *.min.js, dist/**)
+~right.sidebar.SearchFilters.0a6412a895 | Files To Exclude
+~right.sidebar.SearchFilters.8a77efcbd1 | files to include (e.g. *.ts, src/**)
+~right.sidebar.SearchFilters.a69ee1bd0e | Files To Include
+~right.sidebar.SearchHeader.6234a5ef85 | Use Regular Expression
+~right.sidebar.SearchHeader.4567e6e0b6 | Match Whole Word
+~right.sidebar.SearchHeader.464ae3974f | Match Case
+~right.sidebar.SearchHeader.693cbeadd0 | Search
+~right.sidebar.SearchQueryRow.queryLabel | Search files
+~right.sidebar.SearchQueryRow.clearLabel | Clear search
+~right.sidebar.SearchResultItems.cc06595a3b | Copy Line Path
+~right.sidebar.SearchResultItems.3596b9668d | Copy Path
+~right.sidebar.activity.bar.buttons.1fd284e931 | More sidebar tabs
+~right.sidebar.activity.bar.buttons.f1132ea95d | neutral
+~right.sidebar.index.70893f017b | Side
+~right.sidebar.index.7b415c39e9 | Top
+~right.sidebar.index.864111caa2 | Activity Bar Position
+~right.sidebar.index.e8e2e4ce74 | Toggle right sidebar
+~right.sidebar.index.441733b630 | Ports
+~right.sidebar.index.83a10e3c44 | Checks
+~right.sidebar.index.0314901467 | Source Control
+~right.sidebar.index.06219e4cb1 | Search
+~right.sidebar.index.8bc2bbc3a0 | Explorer
+~right.sidebar.index.45b78f03bc | side
+~right.sidebar.index.34af8aadf5 | top
+~right.sidebar.index.9fffaf17c1 | Toggle right sidebar ({{value0}})
+~right.sidebar.index.b37ff4a89a | ports
+~right.sidebar.index.9f83375839 | checks
+~right.sidebar.index.6306b48afd | source-control
+~right.sidebar.index.ef182dcb12 | search
+~right.sidebar.index.fc3095d2ed | explorer
+~right.sidebar.index.aiVaultSessionHistory | Agents
+~right.sidebar.index.folderWorkspaces | Attached worktrees
+~right.sidebar.index.parentPrChecks | PR Checks
+~right.sidebar.right.panel.comment.composer.9bca633dee | Cancel
+~right.sidebar.right.panel.comment.composer.cf5a7aba6f | List
+~right.sidebar.right.panel.comment.composer.d6d9c3c947 | Quote
+~right.sidebar.right.panel.comment.composer.f49e0a21e0 | Code
+~right.sidebar.right.panel.comment.composer.542bf6a7e2 | Italic
+~right.sidebar.right.panel.comment.composer.256300f8ea | Bold
+~right.sidebar.right.panel.comment.composer.87aff03d63 | Sending...
+~right.sidebar.right.panel.comment.composer.commentTooLarge | Comment is too large to submit safely.
+~right.sidebar.useFileDeletion.72691dfebc | Failed to {{value0}} '{{value1}}'.
+~right.sidebar.useFileDeletion.96affe1302 | '{{value0}}' moved to {{value1}}
+~right.sidebar.useFileDeletion.74727df633 | '{{value0}}' deleted
+~right.sidebar.useFileDeletion.d979a4fbb5 | Permanently delete '{{value0}}'?
+~right.sidebar.useFileDeletion.a76c74f105 | destructive
+~right.sidebar.useFileDeletion.92276aceb7 | Delete
+~right.sidebar.useFileDeletion.7fb9435c86 | This permanently deletes the directory and its contents on the remote host. This cannot be undone.
+~right.sidebar.useFileDeletion.23e98f192f | This permanently deletes the file on the remote host. This cannot be undone.
+~right.sidebar.useFileDeletion.8b8ee9d22f | Couldn't determine which host owns this file. Check the workspace connection and try again.
+~right.sidebar.useFileDeletion.af1270b90d | Permanently delete {{count}} items?
+~right.sidebar.useFileDeletion.dd029aa5cd | This permanently deletes the selected items and any directory contents on the remote host. This cannot be undone.
+~right.sidebar.useFileDeletion.77fdc36183 | Delete {{count}} items?
+~right.sidebar.useFileDeletion.fca915a67a | Remote items are permanently deleted and cannot be undone. Local items move to the {{value0}}.
+~right.sidebar.FileExplorerNameFilter.26fb73c6e3 | Find files
+~right.sidebar.FileExplorerNameFilter.4d5a6b2a49 | Clear file filter
+~right.sidebar.FileExplorerNameFilter.7a9fb1e6aa | Contents
+~right.sidebar.FileExplorerViewSwitch.c4e9a2b713 | Names
+~right.sidebar.FileExplorerViewSwitch.b3c8f1a902 | Filter files by name
+~right.sidebar.FileExplorerViewSwitch.f8a2c4d1e0 | Explorer search mode
+~right.sidebar.activityBar.error | Error

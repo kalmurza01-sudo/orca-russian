@@ -1,0 +1,11 @@
+{
+"settings.appearance.language.title": "Язык",
+"settings.appearance.language.description": "Язык интерфейса Orca.",
+"settings.appearance.language.system": "Как в системе",
+"settings.appearance.statusBar.claudeToggleDescription": "Показывать токены и расход Claude для активного пространства.",
+"settings.appearance.statusBar.codexToggleDescription": "Показывать токены и расход Codex для активного пространства.",
+"settings.appearance.statusBar.sshToggleDescription": "Показывать настроенные SSH и удалённые хосты Orca, когда они есть.",
+"settings.appearance.statusBar.resourceUsageToggleDescription": "Показывать «Ресурсы». По клику — процессор, память, сессии, управление демоном и сканирование диска.",
+"settings.appearance.statusBar.portsToggleDescription": "Показывать открытые порты пространства. По клику — порты пространства и внешние слушатели.",
+"menu.showStatusBar": "Показывать строку состояния"
+}

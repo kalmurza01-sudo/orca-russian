@@ -1,0 +1,15 @@
+{
+  "manifestVersion": 1,
+  "id": "orca-russian",
+  "publisher": "kalmurza",
+  "name": "Русский язык",
+  "version": "0.1.0",
+  "description": "Русский перевод интерфейса Orca. Непереведённые строки показываются на английском.",
+  "repository": "https://github.com/kalmurza01-sudo/orca-russian",
+  "engines": { "orca": ">=1.4.0" },
+  "pluginApi": 1,
+  "contributes": {
+    "languagePacks": [{ "locale": "ru", "path": "locales/ru.json" }]
+  },
+  "capabilities": []
+}
