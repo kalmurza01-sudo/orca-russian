@@ -916,6 +916,9 @@
     "AutomationsPageBreadcrumb": {
      "ariaLabel": "Навигация по автоматизациям",
      "runDetails": "Детали запуска"
+    },
+    "AutomationSetupDecisionField": {
+     "18f000ad4e": "Дополнительно"
     }
    },
    "sidebar": {
@@ -1467,6 +1470,18 @@
     },
     "WorktreeListScrollToTopButton": {
      "jumpToTop": "Наверх"
+    },
+    "WorkspaceStatusAppearancePopover": {
+     "74b1413279": "Оформление"
+    },
+    "HostRemoveDialog": {
+     "advanced": "Дополнительно"
+    },
+    "AddRemoteHostDialog": {
+     "advanced": "Дополнительно"
+    },
+    "LinearAgentSkillSetupPrompt": {
+     "recheck": "Проверить снова"
     }
    },
    "Terminal": {
@@ -2348,6 +2363,88 @@
        }
       }
      }
+    },
+    "AgentSkillSetupPanel": {
+     "0b810ec59f": "Нажмите Enter, чтобы выполнить команду.",
+     "runCommandDescription": "Нажмите Enter, чтобы выполнить команду.",
+     "ed197f59a2": "Копировать команду",
+     "817d3f9f18": "Копировать команду",
+     "copyCommandAria": "Копировать команду",
+     "5289300939": "Не установлен",
+     "9fcebceb2a": "Установлен",
+     "68a468752e": "Проверяем...",
+     "c689392435": "Проверить снова",
+     "a31e2aa302": "Не удалось скопировать команду.",
+     "378ad26865": "Команда скопирована.",
+     "copiedCommand": "Команда скопирована.",
+     "failedToCopyCommand": "Не удалось скопировать команду.",
+     "5f818f12ab": "Подготовка...",
+     "4c05b9d7cb": "Готовим терминал установки.",
+     "installLabel": "Установить",
+     "updateLabel": "Обновить",
+     "setupCommandFailed": "Команда установки завершилась с кодом {{value0}}. Ошибка исчезнет после успешного повтора.",
+     "setupFailed": "Установка не удалась",
+     "retrySetup": "Повторить"
+    },
+    "GeneralSupportSection": {
+     "af7d9f4396": "Спасибо за поддержку!",
+     "6922c1fa2b": "Поставить звезду Orca на GitHub",
+     "511782265b": "Поддержите проект звездой на GitHub через gh CLI.",
+     "55a87e5fd1": "Поддержать Orca",
+     "964acc6bb4": "Звезда",
+     "73b327e793": "Попробовать снова",
+     "397719bee5": "Ставим звезду...",
+     "cb65c75b11": "Открываем...",
+     "f2d4f877b2": "Открыть GitHub"
+    },
+    "IntegrationsPane": {
+     "4831ba1083": "Проверить снова",
+     "f7eb5f0b24": "Не установлен"
+    },
+    "MobileSettingsPane": {
+     "e7a3ae8c4e": "Мобильный"
+    },
+    "MobileEmulatorSettingsPane": {
+     "6593c9ddd3": "Мобильный эмулятор"
+    },
+    "FloatingWorkspacePane": {
+     "1f67f39384": "Плавающее пространство"
+    },
+    "GeneralRemoteServerUpdates": {
+     "title": "Удалённые серверы Orca"
+    },
+    "ShortcutsPane": {
+     "cb02e00202": "Терминал"
+    },
+    "TasksPane": {
+     "openIntegrations": "Интеграции",
+     "integrationsLink": "Интеграции"
+    },
+    "TerminalPane": {
+     "5e5f06c82c": "Дополнительно"
+    },
+    "AccountsPane": {
+     "9dd50d3f75": "Дополнительно"
+    },
+    "RuntimeEnvironmentsPane": {
+     "advanced": "Дополнительно"
+    },
+    "RuntimeHostAccessForm": {
+     "advanced": "Дополнительно"
+    },
+    "AppearanceAdvancedDisclosure": {
+     "advanced": "Дополнительно"
+    },
+    "AutoRenameBranchFromWorkSetting": {
+     "e784ea62dc": "Дополнительно"
+    },
+    "repository": {
+     "search": {
+      "cc11699c3d": "Дополнительно"
+     }
+    },
+    "LinearAgentSkillGuide": {
+     "openTaskSources": "Источники задач"
     }
    },
    "status": {
@@ -2473,6 +2570,9 @@
       "detailedTooltip": "Полная картина: шкалы, подписи и проценты",
       "compactTooltip": "Кратко: только самое узкое окно",
       "footerDetailAria": "Детали использования внизу"
+     },
+     "WorkspaceSpaceManagerPanel": {
+      "a8d9e0de79": "Агенты"
      }
     }
    },
@@ -2629,8 +2729,71 @@
      },
      "activityBar": {
       "error": "Ошибка"
+     },
+     "AiVaultPanel": {
+      "agents": "Агенты"
+     },
+     "AiVaultPanelControls": {
+      "agents": "Агенты"
      }
     }
+   },
+   "NewWorkspaceComposerCard": {
+    "f0470c7383": "Дополнительно"
+   },
+   "QuickOpen": {
+    "2ca749c15d": "Установить"
+   },
+   "UpdateCard": {
+    "6b0085010d": "Проверить снова"
+   },
+   "agent": {
+    "AgentSettingsDialog": {
+     "fc0268e4ed": "Агенты"
+    }
+   },
+   "skills": {
+    "install": {
+     "agentsLabel": "Агенты",
+     "agentNotInstalled": "Не установлен"
+    },
+    "SkillDetailDialog": {
+     "agents": "Агенты"
+    },
+    "SkillFreshnessUpdateDialog": {
+     "checkNow": "Проверить снова"
+    }
+   }
+  },
+  "hooks": {
+   "useSettingsNavigationMetadata": {
+    "13241992bd": "Общие",
+    "2b043783ef": "Интеграции",
+    "a9fb10afca": "Терминал",
+    "8c197f74a1": "Браузер",
+    "1e761cff2b": "Мобильный эмулятор",
+    "09607cb0fe": "Git и контроль версий",
+    "0c6ee88a5f": "Ввод и редактирование",
+    "94295ebfb3": "Горячие клавиши",
+    "93d88d20bf": "Оформление",
+    "de0c2907a1": "Удалённые серверы Orca",
+    "f70ac54d38": "Аккаунты ИИ-провайдеров",
+    "b49abbd2f7": "Агенты",
+    "3fc3db144f": "Быстрые команды",
+    "2eece16ad1": "Уведомления",
+    "85f4fd7710": "Источники задач",
+    "6a50cdcd7c": "Голос",
+    "b35e92364b": "Управление компьютером",
+    "58a868e8e4": "Оркестрация",
+    "d72a58b5b9": "Статистика и использование",
+    "94a5afe910": "SSH-хосты",
+    "1cd25673df": "Мобильный",
+    "65b19f5bde": "Плавающее пространство",
+    "225071c560": "Экспериментальное",
+    "580a04cd81": "Дополнительно",
+    "3618579df6": "Приватность и телеметрия",
+    "d91ae31fbd": "Разрешения macOS",
+    "dev": "Инструменты разработчика"
    }
   }
  },
@@ -2686,6 +2849,16 @@
      "closeTabsToLeft": "Закрыть вкладки слева"
     }
    }
+  },
+  "native-chat": {
+   "handoff": {
+    "mode": {
+     "terminal": "Терминал"
+    }
+   },
+   "backgroundTasks": {
+    "groupAgents": "Агенты"
+   }
   }
  },
  "settings": {
@@ -2733,5 +2906,18 @@
   "paste": "Вставить",
   "copy": "Копировать",
   "selectAll": "Выбрать всё"
+ },
+ "dashboardPopout": {
+  "title": "Агенты"
+ },
+ "dashboard": {
+  "sidebar": {
+   "label": "Агенты"
+  }
+ },
+ "sessionHistory": {
+  "settings": {
+   "advanced": "Дополнительно"
+  }
  }
 }
